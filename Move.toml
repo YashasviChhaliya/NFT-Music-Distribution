@@ -1,0 +1,19 @@
+[package]
+name = "aptos_bootcamp"
+version = "1.0.0"
+upgrade_policy = "compatible"
+authors = []
+
+[addresses]
+MyModule = "0x8579e8511a6ba589a7af0e188c0a0bd60ea5f8c16e110decf809c741efaa26f7"
+[dev-addresses]
+default = "0x1"
+
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
+AptosFramework = { local = "../aptos-core/aptos-move/framework/aptos-framework" }
