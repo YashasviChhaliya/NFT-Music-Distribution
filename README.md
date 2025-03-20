@@ -25,7 +25,13 @@ The project aims to revolutionize the music industry by enabling artists to dist
 ## Contract Address:
 0xad5f16f96e8e0d62fa7f3dd554804cd99d087a089b0d86bc19a2c63e14e0f9eb
 
+## Transaction:
 ![image](https://github.com/user-attachments/assets/690faca9-4503-43d9-a11b-4fe316c0c374)
+
+## User Interface:
+![image](https://github.com/user-attachments/assets/4ad9f097-f933-426c-b2dd-bfa4a224db44)
+
+
 
 
 
