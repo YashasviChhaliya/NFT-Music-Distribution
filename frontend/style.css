@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: url('NFT_Background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.login-btn {
+    background-color: orange;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+p {
+    margin: 10px 0 20px;
+}
+
+.btn {
+    display: block;
+    width: 200px;
+    padding: 15px;
+    margin: 10px auto;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
