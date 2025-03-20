@@ -1,15 +1,15 @@
 [package]
-name = "aptos_bootcamp"
+name = "NFT-Music-Distribution"
 version = "1.0.0"
 authors = []
 
 [addresses]
-
+NFTMusic = "0x21916cf9302024cbae851a488a01d621066181aca7a4110f532c22b99b6f60b5"
 [dev-addresses]
 
 [dependencies.AptosFramework]
-git = "https://github.com/aptos-labs/aptos-framework.git"
-rev = "mainnet"
-subdir = "aptos-framework"
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "Mainnet"
+subdir = "aptos-move/framework/aptos-framework"
 
 [dev-dependencies]
