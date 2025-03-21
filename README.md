@@ -32,7 +32,8 @@ The project aims to revolutionize the music industry by enabling artists to dist
 ![image](https://github.com/user-attachments/assets/4ad9f097-f933-426c-b2dd-bfa4a224db44)
 
 ## Login page:
-![login_page](https://github.com/user-attachments/assets/e98e215b-5dde-47f2-a39e-7b408b626b85)
+![image](https://github.com/user-attachments/assets/b0e4f2cb-1dfa-409d-a9f3-844e45637553)
+
 
 
 
